@@ -5,7 +5,7 @@ export const LoginScreen = ({history}) => {
 
         
     return (
-        <div className="container">
+        <div className="">
             <h1>login</h1>
             <hr />
 
