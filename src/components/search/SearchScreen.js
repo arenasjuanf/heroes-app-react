@@ -18,7 +18,6 @@ export const SearchScreen = ({history}) => {
     };
     
     const heroesFiltered = getHeroesByName(q);
-    console.log(heroesFiltered);
     return (
         <div>
             <h1>SearchScreen</h1>
