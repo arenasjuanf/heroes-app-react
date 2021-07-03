@@ -9,7 +9,7 @@ import { SearchScreen } from '../components/search/SearchScreen'
 export const DashboardRouter = () => {
     return (
         <>
-            <Navbar />
+            <Navbar/>
 
             <div className="container mt-2">
                 <Switch>
